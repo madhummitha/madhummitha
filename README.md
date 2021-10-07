@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhummitha</h1>
-<h3 align="center">Passionate towards Software Development</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 - 📫 How to reach me **madhummithar@gmail.com**
 
