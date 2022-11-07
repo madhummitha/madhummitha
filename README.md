@@ -1,5 +1,5 @@
 # Hi 👋, I'm Madhummitha
-## Passionate Software Developer
+## A Passionate Software Developer
 
 - 📫 Reach me @ **madhummithar@gmail.com**
 
